@@ -1,0 +1,19 @@
+{
+  "name": "require-json",
+  "version": "0.4.0",
+  "description": "RequireJS plugin for loading JSON files",
+  "main": "dist/json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwshim/require-json.git"
+  },
+  "author": "Miller Medeiros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/millermedeiros/requirejs-plugins/issues"
+  },
+  "homepage": "https://github.com/millermedeiros/requirejs-plugins"
+}
